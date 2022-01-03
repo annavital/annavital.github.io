@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Anna Vital personal website]]></description><link>https://markvital.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 03 Jan 2022 16:16:16 GMT</lastBuildDate><item><title><![CDATA[Faces]]></title><description><![CDATA[What is the minimum number of shapes that make a person or an object recognizable? On deer horse aboard tritely yikes and much The Big Oxmox…]]></description><link>https://markvital.github.io/faces/</link><guid isPermaLink="false">https://markvital.github.io/faces/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;What is the minimum number of shapes that make a person or an object recognizable?&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Anna Vital personal website]]></description><link>https://annavital.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 03 Jan 2022 16:35:10 GMT</lastBuildDate><item><title><![CDATA[Faces]]></title><description><![CDATA[What is the minimum number of shapes that make a person or an object recognizable? On deer horse aboard tritely yikes and much The Big Oxmox…]]></description><link>https://annavital.github.io/faces/</link><guid isPermaLink="false">https://annavital.github.io/faces/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;What is the minimum number of shapes that make a person or an object recognizable?&lt;/p&gt;
 &lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
 &lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
 Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
@@ -87,12 +87,12 @@ to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
 for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Information Graphics]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://markvital.github.io/information-graphics/</link><guid isPermaLink="false">https://markvital.github.io/information-graphics/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+chicken eggs, though the…]]></description><link>https://annavital.github.io/information-graphics/</link><guid isPermaLink="false">https://annavital.github.io/information-graphics/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
 &lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
 chicken eggs, though the taste and texture will be somewhat different, and the
 egg yolk will be less rich.”?
 (&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Visual Language]]></title><description><![CDATA[Can we, humans, restore the visualness of our language (the written script)? I believe we can. I say we because I believe it would take a…]]></description><link>https://markvital.github.io/visual-language/</link><guid isPermaLink="false">https://markvital.github.io/visual-language/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Can we, humans, restore the visualness of our language (the written script)? I believe we can. I say we because I believe it would take a truly global effort.
+&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Visual Language]]></title><description><![CDATA[Can we, humans, restore the visualness of our language (the written script)? I believe we can. I say we because I believe it would take a…]]></description><link>https://annavital.github.io/visual-language/</link><guid isPermaLink="false">https://annavital.github.io/visual-language/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Can we, humans, restore the visualness of our language (the written script)? I believe we can. I say we because I believe it would take a truly global effort.
 A visual language, as I see it, is part iconic pictograms, part visual structures such as diagrams, and part visual analogies.&lt;/p&gt;
 &lt;p&gt;Until now there have been project that created icons on a mass scale but not yet a project that created visuals using those icons consistently.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
@@ -312,7 +312,7 @@ __double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This paragraph has some `code` in it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;https://placehold.it/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://placehold.it/200x50 &quot;Image Title&quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Presentation Templates]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://markvital.github.io/presentation-templates/</link><guid isPermaLink="false">https://markvital.github.io/presentation-templates/</guid><pubDate>Wed, 28 Mar 2012 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://annavital.github.io/presentation-templates/</link><guid isPermaLink="false">https://annavital.github.io/presentation-templates/</guid><pubDate>Wed, 28 Mar 2012 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
@@ -335,7 +335,7 @@ view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, th
 &lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
 Lane. Pityful a rhetoric question ran over her cheek, then she continued her
 way. On her way she met a copy.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dark Thoughts Visualized]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://markvital.github.io/thoughts-visualized/</link><guid isPermaLink="false">https://markvital.github.io/thoughts-visualized/</guid><pubDate>Fri, 28 Jan 2011 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://annavital.github.io/thoughts-visualized/</link><guid isPermaLink="false">https://annavital.github.io/thoughts-visualized/</guid><pubDate>Fri, 28 Jan 2011 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
@@ -358,7 +358,7 @@ view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, th
 &lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
 Lane. Pityful a rhetoric question ran over her cheek, then she continued her
 way. On her way she met a copy.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Painting Eye]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://markvital.github.io/oil-painting/</link><guid isPermaLink="false">https://markvital.github.io/oil-painting/</guid><pubDate>Fri, 28 Jan 2011 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://annavital.github.io/oil-painting/</link><guid isPermaLink="false">https://annavital.github.io/oil-painting/</guid><pubDate>Fri, 28 Jan 2011 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
@@ -379,7 +379,7 @@ view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, th
 &lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
 Lane. Pityful a rhetoric question ran over her cheek, then she continued her
 way. On her way she met a copy.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Interactive Infographics]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://markvital.github.io/interactive-infographics/</link><guid isPermaLink="false">https://markvital.github.io/interactive-infographics/</guid><pubDate>Fri, 28 Jan 2011 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://annavital.github.io/interactive-infographics/</link><guid isPermaLink="false">https://annavital.github.io/interactive-infographics/</guid><pubDate>Fri, 28 Jan 2011 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
@@ -402,7 +402,7 @@ view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, th
 &lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
 Lane. Pityful a rhetoric question ran over her cheek, then she continued her
 way. On her way she met a copy.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Human Sketches]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://markvital.github.io/human-sketches/</link><guid isPermaLink="false">https://markvital.github.io/human-sketches/</guid><pubDate>Fri, 28 Jan 2011 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://annavital.github.io/human-sketches/</link><guid isPermaLink="false">https://annavital.github.io/human-sketches/</guid><pubDate>Fri, 28 Jan 2011 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
@@ -425,7 +425,7 @@ view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, th
 &lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
 Lane. Pityful a rhetoric question ran over her cheek, then she continued her
 way. On her way she met a copy.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Data Visualization]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://markvital.github.io/data-visualization/</link><guid isPermaLink="false">https://markvital.github.io/data-visualization/</guid><pubDate>Fri, 28 Jan 2011 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://annavital.github.io/data-visualization/</link><guid isPermaLink="false">https://annavital.github.io/data-visualization/</guid><pubDate>Fri, 28 Jan 2011 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
